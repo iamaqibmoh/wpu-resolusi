@@ -4,9 +4,10 @@ Rencana konten WPU
   *Framework
    ^ Vue
    ^ React
+   ^ Angular
 - Fundamental struktur data
 - PHP
   ^ Laravel
 - Interview
 - Vlog
-- Python
+- Golang
