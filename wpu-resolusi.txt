@@ -2,5 +2,5 @@ WPU Resolusi:
 - Konsisten membuat konten
 - Membuat platform pengelolaan video
 - Membuat forum diskusi
-- Membuat e-commerce
 - Kolaborasi open-source
+- Vloger
