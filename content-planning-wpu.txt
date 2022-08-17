@@ -2,9 +2,11 @@ Rencana konten WPU
 - Javascript
   *ES6
   *Framework
-   ^ Angular
-   ^ Next
+   ^ Vue
+   ^ React
+- Fundamental struktur data
 - PHP
   ^ Laravel
 - Interview
 - Vlog
+- Python
